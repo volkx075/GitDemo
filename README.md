@@ -1,2 +1,2 @@
 # GitDemo
-This is a github demo for boot camp.
+This is a git Repo demo for the bootcamp.
